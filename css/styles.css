@@ -1,0 +1,79 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333333;
+  margin: 0;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+
+a {
+  color: #477ca7;
+}
+
+a:visited {
+  color: #477ca7;
+}
+
+a:hover {
+  color: #7868e6;
+}
+
+#main {
+  margin: 30px 8px;
+  padding: 15px 15px 5px;
+  border-radius: 5px;
+  background: #e4fbff;
+}
+
+#title-div {
+  padding: 10px;
+  background-color: #9fd8df;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+
+#headline {
+  margin: 50px 0;
+  text-align: center;
+}
+
+#tribute-link-info {
+  padding: 30px;
+  background-color: #9fd8df;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 16px 0;
+}
